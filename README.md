@@ -62,6 +62,6 @@ https://github.com/Wayne27304/CatMin-Launcher/releases
 
 ## 開源協議
 
-本專案採用 [MIT License](LICENSE) 開源
+本專案採用 [GNU General Public License v3.0](LICENSE) 開源
 
 你可以自由修改、分發或用於商業用途，但請保留原作者版權聲明。

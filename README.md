@@ -1,4 +1,4 @@
-# CatMin Launcher 🐱⛏️
+<img width="1250" height="780" alt="image" src="https://github.com/user-attachments/assets/06ca58fa-2214-45f6-82d5-717392bac2e1" /># CatMin Launcher 🐱⛏️
 
 一個基於 C# WPF 與 WPF UI 打造的現代化、輕量級 Minecraft 啟動器。擁有流暢的毛玻璃介面、多版本管理、Modrinth 資源搜尋，以及一鍵安裝整合包等功能。
 
@@ -6,7 +6,7 @@
 ![WPF](https://img.shields.io/badge/WPF-UI-purple)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## ✨ 功能特色 (Features)
+## 功能特色 (Features)
 
 *   **現代化 UI**：基於 `WPF UI` (Fluent Design) 與 Mica 毛玻璃效果，支援暗黑模式、自訂壁紙與流暢的頁面切換動畫。
 *   **多帳號管理**：支援微軟正版 OAuth 登入，以及多個離線帳號的儲存與快速切換。
@@ -17,36 +17,20 @@
 *   **崩潰分析**：啟動失敗時，自動讀取最新的 `crash-reports` 或 `latest.log` 提示玩家可能的原因。
 *   **目錄自由**：支援自訂 Minecraft 根目錄，無縫接管官方啟動器或其他啟動器的資料夾（不複製檔案）。
 
-## 📸 介面截圖 (Screenshots)
+## 介面截圖
 
-> *(建議在這裡放 2~3 張啟動器的實際截圖，會讓專案看起來超專業！)*
 
-## 🚀 如何編譯與打包 (Building)
+<img width="1250" height="780" alt="image" src="https://github.com/user-attachments/assets/6706f8be-419e-4ccd-9072-bb9fd513d5c4" />
+<img width="1250" height="780" alt="image" src="https://github.com/user-attachments/assets/4bfa5426-4b24-44fb-9fe0-af8cbd296400" />
+<img width="1250" height="780" alt="image" src="https://github.com/user-attachments/assets/21bd0460-6638-4e8f-b7be-81bf5f946b75" />
+<img width="1250" height="780" alt="image" src="https://github.com/user-attachments/assets/55d32ff8-af6b-4906-b085-4ed37457213e" />
 
-本專案使用 `.NET 9.0` 開發。
+## 如何啟動
 
-1. 複製儲存庫：
-   ```bash
-   git clone https://github.com/Wayne27304/CatMin-Launcher.git
-   ```
-2. 進入目錄並還原套件：
-   ```bash
-   cd CatMin-Launcher
-   dotnet restore
-   ```
-3. 編譯並執行：
-   ```bash
-   dotnet run
-   ```
-4. 打包成單一執行檔：
-   ```bash
-   dotnet publish -c Release -r win-x64 --self-contained true -o publish
-   ```
+至  https://github.com/Wayne27304/CatMin-Launcher/releases 下載最新版exe
 
-**製作安裝包**：
-本專案附帶 `Inno Setup` 腳本 (`SetupScript.iss`)，你可以使用 [Inno Setup](https://jrsoftware.org/isinfo.php) 來編譯出專業的 `.exe` 安裝檔。
 
-## ⚠️ 已知錯誤與限制 (Known Issues & Limitations)
+## 已知錯誤與限制
 
 目前版本存在以下已知問題，歡迎有興趣的開發者發起 PR 協助修復：
 
@@ -57,9 +41,9 @@
 5.  **下載進度條**：目前的下載進度是基於「檔案數量」而非「檔案大小」，因此大檔案下載時進度條可能會有跳躍感。
 6.  **部分按鈕未實作**：如「NeoForge / Quilt 安裝」目前僅保留 UI 入口，尚未串接對應的安裝邏輯。
 
-## 🙏 特別致謝 (Special Thanks)
+## 特別致謝
 
-*   **AI 助手 (AI Assistant)**：本專案的誕生離不開 AI 的全程陪伴。從 C# 語法指導、UI 設計 (WPF UI)、API 串接 (CmlLib.Core、Modrinth)，到無數次的 Bug 修復與套件打包，皆由開發者與 AI 共同協作完成。
+*   **AI 助手**：本專案的誕生離不開 AI 的全程陪伴。從 C# 語法指導、UI 設計 (WPF UI)、API 串接 (CmlLib.Core、Modrinth)，到無數次的 Bug 修復與套件打包，皆由開發者與 AI 共同協作完成
 *   [CmlLib.Core](https://github.com/CmlLib/CmlLib.Core) - 強大的 Minecraft 啟動核心庫
 *   [WPF UI](https://github.com/lepoco/wpfui) - 微軟 Fluent Design 的 WPF 實作
 *   [Modrinth API](https://docs.modrinth.com/) - 提供免費開放的模組與整合包數據

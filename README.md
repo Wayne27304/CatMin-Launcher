@@ -1,5 +1,6 @@
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/7c50c0c4-789d-4f03-ba4c-6f79380e16fd" />
-(icon By Gemini)
+**(icon By Gemini)**
+
 # CatMin Launcher 🐱⛏️
 
 一個基於 C# WPF 與 WPF UI 打造的現代化、輕量級 Minecraft 啟動器。擁有流暢的毛玻璃介面、多版本管理、Modrinth 資源搜尋，以及一鍵安裝整合包等功能
@@ -55,4 +56,5 @@
 ## 📄 開源協議 (License)
 
 本專案採用 [MIT License](LICENSE) 開源
+
 你可以自由修改、分發或用於商業用途，但請保留原作者版權聲明。

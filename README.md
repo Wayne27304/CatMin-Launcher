@@ -37,7 +37,6 @@ https://github.com/Wayne27304/CatMin-Launcher/releases
 <img width="1250" height="780" alt="image" src="https://github.com/user-attachments/assets/4bfa5426-4b24-44fb-9fe0-af8cbd296400" />
 <img width="1250" height="780" alt="image" src="https://github.com/user-attachments/assets/21bd0460-6638-4e8f-b7be-81bf5f946b75" />
 <img width="1250" height="780" alt="image" src="https://github.com/user-attachments/assets/55d32ff8-af6b-4906-b085-4ed37457213e" />
-<img width="1250" height="780" alt="image" src="https://github.com/user-attachments/assets/06ca58fa-2214-45f6-82d5-717392bac2e1" />
 
 
 

@@ -1,5 +1,5 @@
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/7c50c0c4-789d-4f03-ba4c-6f79380e16fd" />
-**(icon By Gemini)**
+(the icon By Gemini)
 
 # CatMin Launcher 🐱⛏️
 
@@ -29,9 +29,13 @@
 <img width="1250" height="780" alt="image" src="https://github.com/user-attachments/assets/55d32ff8-af6b-4906-b085-4ed37457213e" />
 <img width="1250" height="780" alt="image" src="https://github.com/user-attachments/assets/06ca58fa-2214-45f6-82d5-717392bac2e1" />
 
-## 如何啟動
+## 如何使用
 
-至  https://github.com/Wayne27304/CatMin-Launcher/releases 下載最新版exe
+至
+```
+https://github.com/Wayne27304/CatMin-Launcher/releases 
+```
+下載安裝
 
 
 ## 已知錯誤與限制
@@ -47,13 +51,13 @@
 
 ## 特別致謝
 
-*   **AI 助手**：本專案的誕生離不開 AI 的全程陪伴。從 C# 語法指導、UI 設計 (WPF UI)、API 串接 (CmlLib.Core、Modrinth)，到無數次的 Bug 修復與套件打包，皆由開發者與 AI 共同協作完成
+*   **deepseek**：本專案的誕生離不開 AI 的全程陪伴。從 C# 語法指導、UI 設計 (WPF UI)、API 串接 (CmlLib.Core、Modrinth)，到無數次的 Bug 修復與套件打包，皆由開發者與 AI 共同協作完成
 *   [CmlLib.Core](https://github.com/CmlLib/CmlLib.Core) - 強大的 Minecraft 啟動核心庫
 *   [WPF UI](https://github.com/lepoco/wpfui) - 微軟 Fluent Design 的 WPF 實作
-*   [Modrinth API](https://docs.modrinth.com/) - 提供免費開放的模組與整合包數據
-*   [Inno Setup](https://jrsoftware.org/isinfo.php) - 專業的安裝包製作工具
+*   [Modrinth API](https://docs.modrinth.com/) - 開放模組與整合包數據
+*   [Inno Setup](https://jrsoftware.org/isinfo.php) - 安裝包製作工具
 
-## 📄 開源協議 (License)
+## 開源協議
 
 本專案採用 [MIT License](LICENSE) 開源
 

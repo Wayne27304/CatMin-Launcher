@@ -20,6 +20,16 @@
 *   **崩潰分析**：啟動失敗時，自動讀取最新的 `crash-reports` 或 `latest.log` 提示玩家可能的原因
 *   **目錄自由**：支援自訂 Minecraft 根目錄，無縫接管官方啟動器或其他啟動器的資料夾（不複製檔案）
 
+
+## 如何使用
+
+至
+```
+https://github.com/Wayne27304/CatMin-Launcher/releases 
+```
+下載安裝
+
+
 ## 介面截圖
 
 
@@ -29,13 +39,6 @@
 <img width="1250" height="780" alt="image" src="https://github.com/user-attachments/assets/55d32ff8-af6b-4906-b085-4ed37457213e" />
 <img width="1250" height="780" alt="image" src="https://github.com/user-attachments/assets/06ca58fa-2214-45f6-82d5-717392bac2e1" />
 
-## 如何使用
-
-至
-```
-https://github.com/Wayne27304/CatMin-Launcher/releases 
-```
-下載安裝
 
 
 ## 已知錯誤與限制
